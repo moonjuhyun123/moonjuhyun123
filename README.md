@@ -28,7 +28,7 @@ I'm Juhyun Moon
 - **Backend**: Java, Spring Boot, JPA
 - **Database**: Oracle, MariaDB / MySQL
 - **Infra / DevOps**: Docker, Docker Compose, Kubernetes (k3s), GitHub Actions
-- **Frontend**: React, TypeScript, Vite (필요한 만큼만)
+- **Frontend**: React, TypeScript, Vite, next.js
 - **Security**: Web Security, Server & Network Configuration
 - **AI**: LLM API 활용, 비용 최소화 구조 설계, 요약·상태 기반 컨텍스트 관리
 
@@ -37,7 +37,7 @@ I'm Juhyun Moon
 ### 🏭 Production & Operations Experience
 
 - RHEL 기반 엔터프라이즈 프로덕션 환경에서  
-  **60,000+ users 규모 시스템을 운용 2년차**
+  **60,000+ users 규모 시스템 운용 2년차**
 - 서비스 배포, 운영, 장애 대응을 수행하고 있습니다.
 - 서버 · 데이터베이스 · **네트워크 단 설정(방화벽 등)**을 포함한  
   운영 환경 전반에 대한 관리 및 운영 경험이 있습니다.
