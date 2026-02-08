@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Juhyun (Moon)
+I'm Juhyun Moon
 
-🔐 Security-oriented Backend Developer  
+🔐 Security-focused Backend Engineer  
 🛠️ Backend · Infra · DevOps · AI-assisted systems  
 🎯 Long-term goal: Security consultant → Industry expert → Research/PhD track
 
@@ -10,8 +10,13 @@ I'm Juhyun (Moon)
 
 ### 🧭 About Me
 
-- Backend 개발을 중심으로 **보안과 인프라 관점에서 시스템을 설계**하는 개발자입니다.
-- Spring Boot, DB, Docker, Kubernetes 환경에서 **혼자서 설계 → 구현 → 배포**까지 경험해왔습니다.
+- Backend 개발을 중심으로 **보안과 인프라 관점에서 시스템을 설계**하는 엔지니어입니다.
+- Spring Boot, DB, Docker, Kubernetes 환경에서  
+  **설계 → 구현 → 배포 → 운영**까지 전반적인 경험을 쌓아왔습니다.
+- **6만 명 이상 사용자가 사용하는 시스템**의
+  서비스 배포, 운영, 장애 대응을 수행한 경험이 있습니다.
+- 서버 및 **네트워크 단 보안 영역(방화벽 등)**을 포함해,
+  운영 환경에서 발생하는 보안 이슈에 대해 **지속적으로 점검 및 대응**해왔습니다.
 - “일단 돌아가는 코드”보다 **왜 이렇게 설계했는지 설명 가능한 구조**를 선호합니다.
 - 단기 트렌드보다 **오래 가는 기본기(OS·Network·DB·Security)**를 중요하게 봅니다.
 
@@ -19,23 +24,57 @@ I'm Juhyun (Moon)
 
 ### 🔨 Tech Stack
 
-- **Backend**: Java, Spring Boot, JPA, MariaDB / MySQL
+- **Backend**: Java, Spring Boot, JPA
+- **Database**: Oracle, MariaDB / MySQL
 - **Infra / DevOps**: Docker, Docker Compose, Kubernetes(k3s), GitHub Actions
 - **Frontend**: React, TypeScript, Vite (필요한 만큼만)
-- **Security**: Web Security, Auth, Secure Design, DB & Infra hardening
+- **Security**: Web Security, Secure Design, Server & Network Hardening
 - **AI**: LLM API 활용, 비용 최소화 구조 설계, 요약·상태 기반 컨텍스트 관리
+
+---
+
+### 🏭 Production & Operations Experience
+
+- Enterprise Linux 기반 프로덕션 환경 운영
+- **60,000+ users 규모 시스템**의 배포 및 안정적 운영
+- 서비스 운영 중 발생하는 장애 및 이슈 대응
+- 서버 · 데이터베이스 · **네트워크 단 보안 구성(방화벽 등)** 운영 경험
+- 서버 및 애플리케이션 레벨 보안 취약점에 대한
+  **지속적인 점검 및 운영 조치 경험**
+- 세부 시스템 구성은 보안 및 운영 정책에 따라 비공개
+
+---
+
+### 🧪 Personal Infrastructure & Kubernetes Lab
+
+- Kubernetes 실전 경험을 쌓기 위해
+  **개인 환경에서 노트북 서버를 직접 구성**하여 클러스터 구축 및 운영
+- 컨테이너 배포, 서비스 구성, 장애 상황을 직접 실험하며
+  **운영 관점의 Kubernetes 사용 경험**을 축적 중
+- 기존 레거시 운영 경험을 바탕으로,
+  컨테이너 기반 환경으로 **운영 역량을 확장**하고 있습니다.
+
+---
+
+### ✍️ Blog
+
+- **IT Moon** — https://itmoon.site
+  - 백엔드 · 보안 · 인프라 · 운영 경험을 정리하는 개인 기술 블로그
+  - 단순 튜토리얼이 아닌,  
+    **“왜 이렇게 설계했고, 운영에서 무엇이 문제 되는지”를 중심으로 기록**
 
 ---
 
 ### 🚀 Projects
 
 - **Personal Blog / Portfolio**
-  - 개발·보안·인프라 실험 기록용
-  - CI/CD + 컨테이너 기반 배포 구조
+  - 개발·보안·인프라 실험 기록
+  - CI/CD + 컨테이너 기반 배포
+  - https://itmoon.site
 
 - **Song’s Pick**
   - 감성 기반 장소 추천 서비스
-  - 프론트/백엔드/데이터 구조 직접 설계
+  - 프론트엔드 / 백엔드 / 데이터 구조 직접 설계
 
 - **Step-by-Step AI Web Service (MVP)**
   - “다음 한 단계만 제시하는” 비용 최적화형 AI UX 실험
@@ -47,15 +86,17 @@ I'm Juhyun (Moon)
 
 - Java & 알고리즘 기본기 정리
 - OS / Network / DB 기반 보안 이해 강화
-- Kubernetes 운영 감각과 장애 대응 경험 쌓기
-- “설계 이유를 설명할 수 있는 코드” 쌓기
+- Kubernetes 운영 감각과 장애 대응 경험 고도화
+- “설계 이유를 설명할 수 있는 코드” 축적
 
 ---
 
 ### 📫 Contact
 
 - GitHub: https://github.com/moonjuhyun123
-- Portfolio (GitHub Pages): 준비 중
+- Portfolio: https://moonjuhyun123.github.io
+- Blog: https://itmoon.site
+- Email: moonjuhyun7@ajou.ac.kr
 
 ---
 
