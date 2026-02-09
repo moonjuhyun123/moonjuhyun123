@@ -68,7 +68,8 @@ I'm Juhyun Moon
 
 - **문열기 게임**
   - 예전부터 생각해오던 아이디어를  
-    Docker Compose 연습 겸 가볍게 구현한 토이 미니게임
+    Docker Compose 연습 겸 가볍게 구현한 미니게임
+  - https://personalitytest.shop
 
 - **Song’s Pick**
   - 감성 기반 장소 추천 서비스
